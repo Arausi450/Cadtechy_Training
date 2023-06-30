@@ -1,0 +1,25 @@
+@media(max-width:1024px){
+    .increaseFont{
+        font-size: 40px;
+        color: orange;
+        display: block;
+    }
+}
+
+#addMargin{
+    margin-top: 40px;
+    margin-left: 40px;
+}        
+#divTag{
+    border: 1px solid; 
+    padding: 20px 25px 30px 50px;
+    /*background-image: url("../HTML/Media/pexels-vanessa-loring-7869233.jpg");*/
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: left;
+    border-radius: 5%;
+}
+a{
+    text-decoration: none;
+}
+
